@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 把微信变成远程视频主机
                        DESC
 
-  s.homepage         = 'https://gitee.com/huig86265/wxLiveHookLib'
+  s.homepage         = 'https://github.com/yh8577/wxLiveHookLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yh8577@126.com' => 'jyh8577@outlook.com' }
-  s.source           = { :git => 'https://gitee.com/huig86265/wxLiveHookLib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/yh8577/wxLiveHookLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

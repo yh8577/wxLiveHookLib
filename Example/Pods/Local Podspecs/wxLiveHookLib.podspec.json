@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "wxLiveHookLib....",
   "description": "把微信变成远程视频主机",
-  "homepage": "https://gitee.com/huig86265/wxLiveHookLib",
+  "homepage": "https://github.com/yh8577/wxLiveHookLib",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "yh8577@126.com": "jyh8577@outlook.com"
   },
   "source": {
-    "git": "https://gitee.com/huig86265/wxLiveHookLib.git",
+    "git": "https://github.com/yh8577/wxLiveHookLib.git",
     "tag": "0.1.0"
   },
   "platforms": {
