@@ -1,0 +1,6 @@
+framework module wxLiveHookLib {
+  umbrella header "wxLiveHookLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

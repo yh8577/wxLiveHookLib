@@ -1,0 +1,39 @@
+{
+  "name": "wxLiveHookLib",
+  "version": "0.1.0",
+  "summary": "wxLiveHookLib....",
+  "description": "把微信变成远程视频主机",
+  "homepage": "https://gitee.com/huig86265/wxLiveHookLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yh8577@126.com": "jyh8577@outlook.com"
+  },
+  "source": {
+    "git": "https://gitee.com/huig86265/wxLiveHookLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "wxLiveHookLib/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "CoreGraphics",
+    "CoreVideo",
+    "QuartzCore",
+    "OpenGLES",
+    "VideoToolbox",
+    "AudioToolbox",
+    "CoreMedia",
+    "AVFoundation",
+    "Foundation"
+  ],
+  "dependencies": {
+    "LFLiveKit": [
+
+    ]
+  }
+}

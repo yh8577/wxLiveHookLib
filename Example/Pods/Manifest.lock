@@ -1,0 +1,23 @@
+PODS:
+  - LFLiveKit (2.6)
+  - wxLiveHookLib (0.1.0):
+    - LFLiveKit
+
+DEPENDENCIES:
+  - wxLiveHookLib (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LFLiveKit
+
+EXTERNAL SOURCES:
+  wxLiveHookLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LFLiveKit: 2219563721f8aa0f188effc3395a06e2d53b23f2
+  wxLiveHookLib: 241d9eb05729b144b5b15e7587a3f1598f880832
+
+PODFILE CHECKSUM: baeade73c35212df16fecf8053f5034baa814a2c
+
+COCOAPODS: 1.5.3

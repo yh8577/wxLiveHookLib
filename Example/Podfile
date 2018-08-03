@@ -1,0 +1,8 @@
+
+
+use_frameworks!
+target 'wxLiveHookLib_Tests' do
+  pod 'wxLiveHookLib', :path => '../'
+  
+  
+end

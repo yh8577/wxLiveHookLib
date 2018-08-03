@@ -1,0 +1,6 @@
+framework module Pods_wxLiveHookLib_Tests {
+  umbrella header "Pods-wxLiveHookLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
